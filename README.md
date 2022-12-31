@@ -7,9 +7,9 @@
        ditions In The Market By Using Power Bi! I have Also Used Some Graphs Likes Pie-
        charts, Bar charts, Line charts, And Many More!
        
-       # Project Link :-https://dev.azure.com/mohitpatil3884/_git/Global%20Super%20Market
+ # Project Link :-https://dev.azure.com/mohitpatil3884/_git/Global%20Super%20Market
  
-       # Demo Link:-https://youtu.be/dM-6ItJRrnc
+ # Demo Link:-https://youtu.be/dM-6ItJRrnc
 
 
         
