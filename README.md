@@ -1,7 +1,7 @@
 # Global-Superstore-market
 
 # Description
-           I have created Supermarket Visuals named Global Super-Market Using Power Bi. 
+            # I have created Supermarket Visuals named Global Super-Market Using Power Bi. 
        it helps the Market to find Sales And Demand For the Products in State, Country! 
        in this website, I Have Implemented the Graphs and Visuals To Know About the Con-
        ditions In The Market By Using Power Bi! I have Also Used Some Graphs Likes Pie-
